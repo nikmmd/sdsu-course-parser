@@ -1,0 +1,13 @@
+{
+  "name": "sdsuclass",
+  "version": "0.0.1",
+  "description": "The next big social networking app",
+  "author": "Nik Medvedev",
+  "license": "MIT",
+  "dependencies" : {
+    "request" : "2.72.0",
+    "cheerio":"0.20.0",
+    "htmlparser2":"3.9.0"
+  }
+
+}
